@@ -44,3 +44,5 @@ git branch -M main
 git remote add origin https://github.com/<YOUR_USERNAME>/MSCS532_Assignment1.git
 git push -u origin main
 ```
+
+##Ran Successfully in Windows 11
