@@ -1,5 +1,5 @@
 # Simple tests for insertion_sort_desc
-# You can run with: python -m tests.test_insertion_sort
+
 from insertion_sort import insertion_sort_desc
 
 def _sorted_desc(a):
